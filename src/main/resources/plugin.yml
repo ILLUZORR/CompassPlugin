@@ -1,0 +1,8 @@
+name: GatePlugin
+version: '${project.version}'
+main: me.illuzorr.plugin.gateplugin.GatePlugin
+api-version: 1.17
+commands:
+  heck:
+    description: "description"
+    usage: "usage"
