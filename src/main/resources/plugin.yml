@@ -1,8 +1,7 @@
-name: GatePlugin
+name: CompassPlugin
 version: '${project.version}'
 main: me.illuzorr.plugin.gateplugin.GatePlugin
 api-version: 1.17
 commands:
-  heck:
-    description: "description"
-    usage: "usage"
+  compass:
+    description: compass

@@ -5,11 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>me.illuzorr.plugin</groupId>
-    <artifactId>GatePlugin</artifactId>
-    <version>0.1</version>
+    <artifactId>CompassPlugin</artifactId>
+    <version>0.9</version>
     <packaging>jar</packaging>
 
-    <name>GatePlugin</name>
+    <name>CompassPlugin</name>
 
     <properties>
         <java.version>1.8</java.version>
